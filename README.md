@@ -8,5 +8,5 @@ no one care
 
 **this is _Adnan_ here**
 
-[ you can join us (nothing.com) ]
+[you can join us] (nothing.com)
 
